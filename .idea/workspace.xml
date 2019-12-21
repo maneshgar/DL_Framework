@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="836f18fd-e0b3-4241-b17f-d70d7beb97f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VBSBbL0KJ0jcSu9DvHiIXgiJKo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programming\ML\Projects\Tutorials\dlLib" />
+      <recent name="D:\Programming\ML\Projects\Tutorials" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.FashionMnist">
+    <configuration name="AutoMPG" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Programming\ML\tensor_env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AutoMPG.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FashionMnist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Programming\ML\tensor_env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FashionMnist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Programming\ML\tensor_env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.FashionMnist" />
+      <item itemvalue="Python.AutoMPG" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.FashionMnist" />
+        <item itemvalue="Python.AutoMPG" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="836f18fd-e0b3-4241-b17f-d70d7beb97f2" name="Default Changelist" comment="" />
+      <created>1576724860526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576724860526</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="406" y="0" key="#AutoMPG" timestamp="1576967896113">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="406" y="0" key="#AutoMPG/0.0.1360.728@0.0.1360.728" timestamp="1576967896113" />
+    <state x="446" y="38" key="#FashionMnist" timestamp="1576725113586">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="446" y="38" key="#FashionMnist/0.0.1440.860@0.0.1440.860" timestamp="1576725113586" />
+    <state x="174" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576725067994">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="174" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1576725067994" />
+    <state width="1040" height="524" key="DebuggerActiveHint" timestamp="1576968006717">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1040" height="524" key="DebuggerActiveHint/0.0.1360.728@0.0.1360.728" timestamp="1576968006717" />
+    <state width="655" height="618" key="DebuggerActiveHint/0.0.1440.860@0.0.1440.860" timestamp="1576726501417" />
+    <state width="1339" height="242" key="GridCell.Tab.0.bottom" timestamp="1576969407388">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="242" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1576969407388" />
+    <state width="1419" height="254" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1576727953385" />
+    <state width="1339" height="242" key="GridCell.Tab.0.center" timestamp="1576969407388">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="242" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1576969407388" />
+    <state width="1419" height="254" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1576727953385" />
+    <state width="1339" height="242" key="GridCell.Tab.0.left" timestamp="1576969407388">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="242" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1576969407388" />
+    <state width="1419" height="254" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1576727953385" />
+    <state width="1339" height="242" key="GridCell.Tab.0.right" timestamp="1576969407388">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="242" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1576969407388" />
+    <state width="1419" height="254" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1576727953385" />
+    <state width="1339" height="242" key="GridCell.Tab.1.bottom" timestamp="1576969407389">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="242" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1576969407389" />
+    <state width="1419" height="254" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1576727997386" />
+    <state width="1339" height="242" key="GridCell.Tab.1.center" timestamp="1576969407389">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="242" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1576969407389" />
+    <state width="1419" height="254" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1576727997386" />
+    <state width="1339" height="242" key="GridCell.Tab.1.left" timestamp="1576969407389">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="242" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1576969407389" />
+    <state width="1419" height="254" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1576727997386" />
+    <state width="1339" height="242" key="GridCell.Tab.1.right" timestamp="1576969407389">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1339" height="242" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1576969407389" />
+    <state width="1419" height="254" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1576727997386" />
+    <state x="221" y="72" key="SettingsEditor" timestamp="1576727604963">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="221" y="72" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1576727604963" />
+    <state width="688" height="372" key="XDebugger.FullValuePopup" timestamp="1576968006710">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="688" height="372" key="XDebugger.FullValuePopup/0.0.1360.728@0.0.1360.728" timestamp="1576968006710" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/AutoMPG.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dlLib/dlDataManager.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="test_images.min" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
