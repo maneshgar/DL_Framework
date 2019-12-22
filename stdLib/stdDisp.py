@@ -12,6 +12,9 @@ def gridShow(images, sizeX, sizeY, rows, cols, titles=None, cmap=plt.cm.binary):
             plt.xlabel(titles[i])
     plt.show()
 
+###################################################################################
+###################################################################################
+
 def imageShow(image):
     plt.figure()
     plt.imshow(image)

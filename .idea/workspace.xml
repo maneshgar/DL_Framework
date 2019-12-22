@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="836f18fd-e0b3-4241-b17f-d70d7beb97f2" name="Default Changelist" comment="" />
+    <list default="true" id="836f18fd-e0b3-4241-b17f-d70d7beb97f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Classification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectDetection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dlLib/dlConfig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FashionMnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/FashionMnist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dlLib/dlDataManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/dlLib/dlDataManager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dlLib/dlDisp.py" beforeDir="false" afterPath="$PROJECT_DIR$/dlLib/dlDisp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dlLib/dlIO.py" beforeDir="false" afterPath="$PROJECT_DIR$/dlLib/dlIO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dlLib/dlModels.py" beforeDir="false" afterPath="$PROJECT_DIR$/dlLib/dlModels.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stdLib/stdDisp.py" beforeDir="false" afterPath="$PROJECT_DIR$/stdLib/stdDisp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stdLib/stdUtil.py" beforeDir="false" afterPath="$PROJECT_DIR$/stdLib/stdUtil.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +26,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VBSBbL0KJ0jcSu9DvHiIXgiJKo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,7 +46,7 @@
       <recent name="D:\Programming\ML\Projects\Tutorials" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.FashionMnist">
+  <component name="RunManager" selected="Python.Classification">
     <configuration name="AutoMPG" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -52,6 +68,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Classification" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Programming\ML\tensor_env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classification.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="FashionMnist" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,6 +102,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FashionMnist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ObjectDetection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tutorials" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Programming\ML\tensor_env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ObjectDetection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,10 +156,14 @@
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.FashionMnist" />
       <item itemvalue="Python.AutoMPG" />
+      <item itemvalue="Python.ObjectDetection" />
+      <item itemvalue="Python.Classification" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Classification" />
         <item itemvalue="Python.FashionMnist" />
+        <item itemvalue="Python.ObjectDetection" />
         <item itemvalue="Python.AutoMPG" />
       </list>
     </recent_temporary>
@@ -136,67 +198,84 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="406" y="0" key="#AutoMPG/0.0.1360.728@0.0.1360.728" timestamp="1576967896113" />
+    <state x="446" y="38" key="#Classification" timestamp="1577019290834">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="446" y="38" key="#Classification/0.0.1440.860@0.0.1440.860" timestamp="1577019290834" />
     <state x="446" y="38" key="#FashionMnist" timestamp="1576725113586">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="446" y="38" key="#FashionMnist/0.0.1440.860@0.0.1440.860" timestamp="1576725113586" />
+    <state x="446" y="38" key="#ObjectDetection" timestamp="1577018057475">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="446" y="38" key="#ObjectDetection/0.0.1440.860@0.0.1440.860" timestamp="1577018057475" />
     <state x="174" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576725067994">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="174" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1576725067994" />
-    <state width="1040" height="524" key="DebuggerActiveHint" timestamp="1576968006717">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state width="1025" height="618" key="DebuggerActiveHint" timestamp="1577030769788">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1040" height="524" key="DebuggerActiveHint/0.0.1360.728@0.0.1360.728" timestamp="1576968006717" />
-    <state width="655" height="618" key="DebuggerActiveHint/0.0.1440.860@0.0.1440.860" timestamp="1576726501417" />
-    <state width="1339" height="242" key="GridCell.Tab.0.bottom" timestamp="1576969407388">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state width="1025" height="618" key="DebuggerActiveHint/0.0.1440.860@0.0.1440.860" timestamp="1577030769788" />
+    <state width="1419" height="116" key="GridCell.Tab.0.bottom" timestamp="1577032429803">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1339" height="242" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1576969407388" />
-    <state width="1419" height="254" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1576727953385" />
-    <state width="1339" height="242" key="GridCell.Tab.0.center" timestamp="1576969407388">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state width="1419" height="116" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1577032429803" />
+    <state width="1419" height="116" key="GridCell.Tab.0.center" timestamp="1577032429803">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1339" height="242" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1576969407388" />
-    <state width="1419" height="254" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1576727953385" />
-    <state width="1339" height="242" key="GridCell.Tab.0.left" timestamp="1576969407388">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state width="1419" height="116" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1577032429803" />
+    <state width="1419" height="116" key="GridCell.Tab.0.left" timestamp="1577032429803">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1339" height="242" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1576969407388" />
-    <state width="1419" height="254" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1576727953385" />
-    <state width="1339" height="242" key="GridCell.Tab.0.right" timestamp="1576969407388">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state width="1419" height="116" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1577032429803" />
+    <state width="1419" height="116" key="GridCell.Tab.0.right" timestamp="1577032429803">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1339" height="242" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1576969407388" />
-    <state width="1419" height="254" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1576727953385" />
-    <state width="1339" height="242" key="GridCell.Tab.1.bottom" timestamp="1576969407389">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state width="1419" height="116" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1577032429803" />
+    <state width="1419" height="201" key="GridCell.Tab.1.bottom" timestamp="1577032429803">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1339" height="242" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1576969407389" />
-    <state width="1419" height="254" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1576727997386" />
-    <state width="1339" height="242" key="GridCell.Tab.1.center" timestamp="1576969407389">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state width="1419" height="201" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1577032429803" />
+    <state width="1419" height="201" key="GridCell.Tab.1.center" timestamp="1577032429803">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1339" height="242" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1576969407389" />
-    <state width="1419" height="254" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1576727997386" />
-    <state width="1339" height="242" key="GridCell.Tab.1.left" timestamp="1576969407389">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state width="1419" height="201" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1577032429803" />
+    <state width="1419" height="201" key="GridCell.Tab.1.left" timestamp="1577032429803">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1339" height="242" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1576969407389" />
-    <state width="1419" height="254" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1576727997386" />
-    <state width="1339" height="242" key="GridCell.Tab.1.right" timestamp="1576969407389">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state width="1419" height="201" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1577032429803" />
+    <state width="1419" height="201" key="GridCell.Tab.1.right" timestamp="1577032429803">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="1339" height="242" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1576969407389" />
-    <state width="1419" height="254" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1576727997386" />
+    <state width="1419" height="201" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1577032429803" />
     <state x="221" y="72" key="SettingsEditor" timestamp="1576727604963">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="221" y="72" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1576727604963" />
-    <state width="688" height="372" key="XDebugger.FullValuePopup" timestamp="1576968006710">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state width="729" height="440" key="XDebugger.FullValuePopup" timestamp="1577022732084">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="688" height="372" key="XDebugger.FullValuePopup/0.0.1360.728@0.0.1360.728" timestamp="1576968006710" />
+    <state width="729" height="440" key="XDebugger.FullValuePopup/0.0.1440.860@0.0.1440.860" timestamp="1577022732084" />
+    <state x="406" y="11" width="627" height="837" key="find.popup" timestamp="1577031225912">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="406" y="11" width="627" height="837" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1577031225912" />
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1577023035725">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="383" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1440.860@0.0.1440.860" timestamp="1577023035725" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -207,9 +286,19 @@
           <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/dlLib/dlDataManager.py</url>
-          <line>37</line>
-          <option name="timeStamp" value="47" />
+          <url>file://$PROJECT_DIR$/ObjectDetection.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ObjectDetection.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Classification.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="74" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
